@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guillemon
 - 👀 I’m interested in learning python, SQL and Machine Learning
-- 🌱 I’m currently learning Pyhthon
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on chemistry project related.
 - 📫 How to reach me tolki316@gmail.com
 
